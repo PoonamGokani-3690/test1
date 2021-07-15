@@ -9,3 +9,5 @@ Given the following languages exist:
 | English | en-US   |
 | Polish  | pl      |
 | Italian | it-IT   | 
+
+Steps goes here
